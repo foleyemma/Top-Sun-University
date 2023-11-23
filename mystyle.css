@@ -1,0 +1,88 @@
+#start-up{
+    background-image: url(/our-university-new.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+body{
+    font-family: roboto;
+}
+#graduation{
+    background: url(pexels-pixabay-267885.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#university-life{
+    background: url(university\ life.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#sports{
+    background: url(sports.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#social{
+    background: url(social.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#why-us-img{
+    background-image: url(why\ us.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#gallery-1{
+    background: url(pexels-scott-webb-137618.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#gallery-2{
+    background: url(pexels-godisable-jacob-901964.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#gallery-3{
+    background: url(pexels-rfstudio-3886248.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#gallery-4{
+    background: url(pexels-godisable-jacob-901962.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#gallery-5{
+    background-image: url(pexels-rfstudio-3825569.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#gallery-6{
+    background-image: url(pexels-ketut-subiyanto-4132406.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+/* #main-bg{
+    background-image: url(Group-212.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+} */
+#professor-1{
+    background-image: url(professor-1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#professor-2{
+    background-image: url(professor-2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#professor-3{
+    background-image: url(professor-3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#professor-4{
+    background-image: url(professor-4.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}

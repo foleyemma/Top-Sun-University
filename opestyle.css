@@ -1,0 +1,25 @@
+.E-Distance{ background-image: url(Images/pexels-julia-m-cameron-4145190.jpg);
+    background-repeat: no-repeat;
+width: 80%;
+height: 30rem;
+}
+.chair{ background-image: url(Images/chair.jpg);
+    background-repeat: no-repeat;
+    width: 23%;
+    height: 20rem;
+}
+.computer{ background-image: url(Images/computer.jpg);
+background-repeat: no-repeat;
+width: 23%;
+}
+.our{ background-image: url(Images/programs.jpg);
+    background-repeat: no-repeat;
+    width: 23%;
+}
+.apply{ background-image: url(Images/apply.jpg);
+    background-repeat: no-repeat;
+    width: 23%;
+}
+body{
+    font-family: roboto;
+}

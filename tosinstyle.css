@@ -1,0 +1,12 @@
+#school{
+    background-image: url(/pexels-matthis-volquardsen-2305098.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+body{
+    font-family: roboto;
+}
+header{
+    font-family: roboto;
+}
